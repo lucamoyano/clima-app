@@ -89,7 +89,7 @@ const listarlugares = async( lugares = [] ) => {
         {
             type: 'list',
             name: 'id',
-            message: 'Borrar',
+            message: 'Seleccionar',
             choices
         }
     ]
